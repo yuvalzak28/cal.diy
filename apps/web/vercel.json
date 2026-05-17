@@ -29,5 +29,4 @@
       "schedule": "*/5 * * * *"
     }
   ],
-  "functions": {}
 }
