@@ -24,6 +24,7 @@ const SELECT_SEARCH_DATA: Timezones = [
   { label: "Japan Standard Time", timezone: "Asia/Tokyo" },
   { label: "India Standard Time", timezone: "Asia/Kolkata" },
   { label: "Gulf Standard Time", timezone: "Asia/Dubai" },
+  { label: "אסיה/ירושלים", timezone: "Asia/Jerusalem" },
   { label: "South Africa Standard Time", timezone: "Africa/Johannesburg" },
   { label: "Brazil Time", timezone: "America/Sao_Paulo" },
   { label: "Hawaii-Aleutian Standard Time", timezone: "Pacific/Honolulu" },
